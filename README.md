@@ -1,6 +1,7 @@
 # Automatidata_ADA_Project
 Automatidata is consulting for the New York City Taxi and Limousine Commission (TLC). New York City TLC is an agency responsible for licensing and regulating New York City's taxi cabs and for-hire vehicles. The agency has partnered with Automatidata to develop a regression model that helps estimate taxi fares before the ride, based on data that TLC has gathered. Automatidata works with its clients to transform their unused and stored data into useful solutions, such as performance dashboards, customer-facing tools, strategic business insights, and more. They specialize in identifying a client’s business needs and utilizing their data to meet those business needs. The TLC data comes from over 200,000 taxi and limousine licensees, making approximately one million combined trips per day.
-ASSIGNMENTS
+
+ASSIGNMENTS:
 1. Automatidata will need a project proposal that will create milestones for the tasks within the TLC project.
    Tasks: Organize project tasks into milestones, Classify tasks using the PACE workflow, Identify relevant stakeholders.
 2. Build a dataframe for the TLC data. After the dataframe is complete, organize the data for the process of exploratory data analysis, and update the team on the progress and insights.
